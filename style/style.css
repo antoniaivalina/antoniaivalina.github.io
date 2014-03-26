@@ -1,0 +1,13 @@
+body {
+	background : url("../images/background.jpg") no-repeat center;
+	background-size: cover;
+	font: bold  20px Arial  ;
+	color: green;
+
+
+}
+#sentence { 
+    opacity:0.4;
+    
+
+}
